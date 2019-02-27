@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{DC7795E5-AB68-4B5B-8A4B-99AE1271C49C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Morse_Code/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Morse_Code/MainPage.xaml.cs" Line="76" Column="28" />
+      <File FileName="Morse_Code/MainPage.xaml" Line="5" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Morse__Code.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Morse__Code.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3A0DDBAD-3A74-42E5-947C-A74A5C68DBF7" />
+  <MultiItemStartupConfigurations />
+</Properties>

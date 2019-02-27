@@ -1,0 +1,12 @@
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/Morse_Code.csprojAssemblyReference.cache
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/Morse_Code.csproj.CoreCompileInputs.cache
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/Morse_Code.AssemblyInfoInputs.cache
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/Morse_Code.AssemblyInfo.cs
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/Morse_Code.dll
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/Morse_Code.pdb
+/Users/lnolting/Projects/Morse_Code/Morse_Code/bin/Debug/netstandard2.0/Morse_Code.deps.json
+/Users/lnolting/Projects/Morse_Code/Morse_Code/bin/Debug/netstandard2.0/Morse_Code.dll
+/Users/lnolting/Projects/Morse_Code/Morse_Code/bin/Debug/netstandard2.0/Morse_Code.pdb
+/Users/lnolting/Projects/Morse_Code/Morse_Code/obj/Debug/netstandard2.0/XamlC.stamp
